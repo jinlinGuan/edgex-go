@@ -3,7 +3,7 @@ module github.com/edgexfoundry/edgex-go
 require (
 	bitbucket.org/bertimus9/systemstat v0.0.0-20180207000608-0eeff89b0690
 	github.com/edgexfoundry/go-mod-bootstrap/v2 v2.2.0-dev.9
-	github.com/edgexfoundry/go-mod-core-contracts/v2 v2.2.0-dev.24
+	github.com/edgexfoundry/go-mod-core-contracts/v2 v2.2.1-dev.1
 	github.com/edgexfoundry/go-mod-messaging/v2 v2.2.0-dev.9
 	github.com/edgexfoundry/go-mod-registry/v2 v2.1.0
 	github.com/edgexfoundry/go-mod-secrets/v2 v2.2.0-dev.6
@@ -28,7 +28,7 @@ require (
 	github.com/eclipse/paho.mqtt.golang v1.3.5 // indirect
 	github.com/edgexfoundry/go-mod-configuration/v2 v2.1.0 // indirect
 	github.com/fatih/color v1.9.0 // indirect
-	github.com/go-kit/log v0.2.0 // indirect
+	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
 	github.com/go-playground/locales v0.14.0 // indirect
 	github.com/go-playground/universal-translator v0.18.0 // indirect
